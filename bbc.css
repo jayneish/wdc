@@ -1,0 +1,287 @@
+			body{
+				margin:0;
+				padding:0;
+				font-family:Helvetica, Arial, sans-serif;
+			}
+			
+			#topbar{
+				width:1000px;
+				height:40px;
+				margin:0 auto;
+				background-color:black;
+			}
+			
+			#logo{
+				margin-top:5px;
+				margin-right:6px;
+				margin-left:15px;
+				width:100px;
+				float:left;
+			}
+			
+			.topbarsection{
+				float:left;
+				border-left:1px grey solid;
+				color:white;
+				height:100%;
+			}
+			
+			#signinimage{
+				width:30px;
+				margin:8px 6px;
+				float:left;
+			}
+			
+			#signintext{
+				font-weight:bold;
+				font-size:90%;
+				position:relative;
+				top:11px;
+			}
+			
+			#signindiv{
+				margin-right:14px;
+			}
+			
+			.topbarmenu{
+				color:white;
+				font-weight:bold;
+				font-size:90%;
+				padding:11px;
+				height:18px;
+			}
+			
+			#morearrow{
+				width:30px;
+				margin-left:1px;
+				margin-top:1px;
+				float:right;
+			}
+			
+			#search{
+				border:none;
+				background-color:white;
+				width:150px;
+				font-weight:bold;
+				font-size:14px;
+				padding:5px;
+				margin:7px 0 7px 7px;
+				float:left;
+			}
+			
+			#searchicon{
+				height:26px;
+				margin-top:7px;
+			}
+			
+			.clear{
+				clear:both;
+			}
+			
+			#menubarcontainer{
+				background-color:#FF3300;
+				width:100%;
+				height:70px;
+				border-top:1px grey solid;
+			}
+			
+			#menubar{
+				width:1000px;
+				margin:0 auto;
+			}
+			
+			h1{
+				padding:0;
+				margin:0;
+				color:white;
+				font-size:40px;
+				font-weight:normal;
+				padding-top:12px;
+				padding-bottom:10px;
+				padding-left:15px;
+			}
+			#localnews{
+				float:right;
+				border:2px white solid;
+				position:relative;
+				top:-52px;
+				left:-25px;
+				padding:5px;
+			}
+			
+			#localnews a{
+				color:white;
+				text-decoration:none;
+				font-size:20px;
+			}
+			
+			#localnews a:hover{
+				text-decoration:underline;
+			}
+			
+			#menubar2container{
+				background-color:#CC0000;
+				width:100%;
+			}
+			
+			#menubar2{
+				width:1000px;
+				margin:0 auto;
+				height:30px;
+				padding-left:10px;
+			}
+			
+			#menubar2 a{
+				color:white;
+				text-decoration:none;
+				font-size:13px;
+				position:relative;
+				top:5px;
+				padding:0 10px;
+				border-right: 1px white solid;
+			}
+			
+			#menubar2 a:hover{
+				text-decoration:underline;
+			}
+			
+			#arrow2{
+				height:15px;
+				position:relative;
+				top:7px;
+				left:-5px;
+			}
+			
+			.noborder{
+				border:none !important;
+			}
+			
+			#pagecontainer{
+				width:1000px;
+				margin:0 auto;
+			}
+			
+			#mainarticle{
+				margin-top:-10px;
+			}
+			
+			h2{
+				font-weight:bold;
+				font-size:30px;
+			}
+			
+			h2 a{
+				text-decoration:none;
+				color:black;
+			}
+			
+			h2 a:hover{
+				text-decoration:none;
+				color:#4B87B9;
+			}
+			
+			#artclimg{
+				margin-top:25px;
+				margin-left:-20px;
+				margin-right:10px;
+				padding-right:10px;
+				border-right:1px solid #E0E0E0;
+				float:left;
+			}
+			
+			#articletext{
+				margin:0 40px 40px 30px;
+				width:230px;
+				float:left;
+			}
+			
+			#articletext img{
+				height:25px;
+				float:left;
+			}
+			
+			#timestamp{
+				font-size:12px;
+				margin-top:20px;
+				margin-left:20px;
+			}
+			
+			#timestamp a{
+				text-decoration:none;
+				color:#CC0000;
+			}
+			
+			#secondtext{
+				width:210px;
+				font-size:15px;
+				float:right;
+				margin-top:9px;
+				margin-right:25px;
+			}
+			
+			#secondhalf{
+				width:1000px;
+				margin:0 auto;
+			}
+			
+			#shcontent{
+				margin-top:-20px;
+				float:left;
+			}
+			
+			#border{
+				width:950px;
+				border-top:1px solid #E0E0E0;
+				margin:0 auto;
+			}
+			
+			#video1{
+				float:left;
+				margin:10px 10px 5px 20px;
+				border-right:1px solid #E0E0E0;
+				padding-right:15px;
+				width:342px;
+			}
+			
+			#video2{
+				float:left;
+				margin:12px 10px 5px 7px;
+				border-right:1px solid #E0E0E0;
+				padding-right:15px;
+				width:342px;
+			}
+			
+			.vlov{
+				float:left;
+				height:25px;
+			}
+			
+			.vimevamp{
+				font-size:12px;
+				margin-top:20px;
+				margin-left:20px;
+			}
+			
+			.vimevamp a{
+				text-decoration:none;
+				color:#CC0000;
+			}
+			
+			.link{
+				float:left;
+				width:200px;
+				margin:-5px 0 5px 5px;
+				padding-bottom:10px;
+				border-bottom:1px solid #E0E0E0;
+			}
+			
+			.dimedamp{
+				font-size:12px;
+				margin-top:25px;
+				margin-left:20px;
+			}
+			
+			.dimedamp a{
+				text-decoration:none;
+				color:#CC0000;
+			}
